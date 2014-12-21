@@ -1,2 +1,2 @@
-data-tool-box
+course of 'The Data Scientist’s Toolbox'
 =============
